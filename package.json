@@ -1,13 +1,13 @@
 {
-    "name": "fang",
-    "version": "0.0.0",
-    "description": "Mylanguage language support in Atom",
-    "engines": {
-        "atom": "*"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/remobile/atom-wx"
-    },
-    "license": "MIT"
+  "name": "fang",
+  "version": "0.1.0",
+  "description": "Mylanguage language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/remobile/atom-wx"
+  },
+  "license": "MIT"
 }

@@ -5,7 +5,7 @@
 
 
 ### 安装
-- run `apm install vim-mode`
+- run `apm install atom-wx`
 
 ### 来源
 - 代码来源于官方的 language-xml 和 language-css
